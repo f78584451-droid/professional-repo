@@ -1,4 +1,4 @@
 # Hello_world 👋
-## My name is Awum Fredy an upcoming Software Engineer
+## My name is Awum Fredy, an upcoming Software Engineer.
 
  
