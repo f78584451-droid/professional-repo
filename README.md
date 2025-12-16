@@ -9,3 +9,13 @@
 ### Looking back, my first year has been challenging, demanding, and at the same time, incredibly rewarding. It laid the foundation for the software engineer I am becoming.
 ![github stats](https://github-readme-stats.vercel.app/api?username=f78584451-droid&show_icons=true&theme=tokyonight)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=f78584451-droid&layout=compact&theme=tokyonight)
+
+# Personal Experience 📚
+
+## As a beginner, I am gaining experience through classwork, assignments, and small projects.
+## I have learned basic computer operations, simple programming concepts, and how to use tools like Microsoft Word and GitHub. These experiences are helping me grow academically and professionally.
+
+# Project 💼 
+
+## One of my projects is a simple student/hostel management application (or any beginner project you have done).
+## The project helps to store and manage basic information such as names and records. This project helped me understand problem-solving and basic system design.
